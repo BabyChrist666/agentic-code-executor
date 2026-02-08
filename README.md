@@ -2,8 +2,10 @@
 
 Multi-step code execution framework with tool orchestration, error recovery, and secure sandboxing. Built to demonstrate agentic AI patterns used in production systems like Claude Code.
 
-[![Tests](https://img.shields.io/badge/tests-74%20passed-brightgreen)]()
-[![Python](https://img.shields.io/badge/python-3.9+-blue)]()
+[![Tests](https://github.com/BabyChrist666/agentic-code-executor/actions/workflows/tests.yml/badge.svg)](https://github.com/BabyChrist666/agentic-code-executor/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/BabyChrist666/agentic-code-executor/branch/master/graph/badge.svg)](https://codecov.io/gh/BabyChrist666/agentic-code-executor)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
 
